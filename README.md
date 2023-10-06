@@ -11,9 +11,9 @@ Bem-vindo ao repositório que abriga meu projeto empolgante de Web Crawlers e Bo
 
 🚀 Como começar:
 1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2. Explore o código-fonte e a documentação para começar a construir seus próprios Web Crawlers e Bots.
-3. Instale as dependências necessárias usando `pip install -r requirements.txt`.
-4. Execute os scripts de exemplo e adapte-os para suas necessidades.
+2. Instale as dependências necessárias usando `pip install -r requirements.txt`.
+3. Acesse a pasta src e ative a virtual env do python.
+4. Execute o arquivo crawler.py
 
 Este é um projeto em constante evolução, e sua contribuição é fundamental para torná-lo ainda melhor. Juntos, podemos automatizar processos, extrair insights e simplificar tarefas online.
 
